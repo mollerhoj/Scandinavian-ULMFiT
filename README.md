@@ -16,6 +16,8 @@ See Universal Language Model Fine-tuning for Text Classification, Jeremy Howard,
 
 - dawt.h5  (Danish WikiText) contains the weights in 'Hierarchical Data Format'
 
+- dawt.pth  (Danish WikiText) contains the weights in 'Pytorch model format'
+
 - itos.pkl (Integers to Strings) contains the vocabulary mapping from ids (0 - 30000) to strings
 
 ### Sponsor
