@@ -22,3 +22,7 @@ See Universal Language Model Fine-tuning for Text Classification, Jeremy Howard,
 
 This work was sponsored by Danish chatbot company BotXO
 http://www.botxo.co/
+
+### Thanks 
+
+Thanks to Tobias Lindberg from Damvad Analytics for converting the vectors to pth-format.
