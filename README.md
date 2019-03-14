@@ -1,6 +1,5 @@
 # Scandinavian ULMFiT
 
-
 Inductive transfer learning has greatly impacted computer vision, but existing approaches in NLP still require task-specific modifications and training from scratch.
 
 This repository contains the weights for the embedding layer of a UMLFiT language model that can be used as the first step in fine-tuning any Natural Language Processing task.
