@@ -16,6 +16,10 @@ Trained on 78,373,122 tokens, and validated on 7,837,310 tokens. We achieve a pe
 
 Trained on 80,284,231 tokens, and validated on 8,920,387 tokens. We achieve a perplexity of 26.31.
 
+- Finnish
+
+Trained on 68,775,370 tokens, and validated on 7,641,571 tokens. We achieve a perplexity of 27.66
+
 Training even higher performance models is possible, but require more (costly) training time. If you need a model with higher performance, feel free to contact us.
 
 ### Paper
