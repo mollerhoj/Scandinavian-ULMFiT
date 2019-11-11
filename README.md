@@ -11,16 +11,21 @@ The weights were trained on 90% of all text in the corresponding language wikipe
 - Danish
 
 Trained on 78,373,122 tokens, and validated on 7,837,310 tokens. We achieve a perplexity of 30.9.
+Download files: [Link](https://www.dropbox.com/s/mipfzhj71ecptbd/danish.zip?dl=0)
 
 - Norwegian
 
 Trained on 80,284,231 tokens, and validated on 8,920,387 tokens. We achieve a perplexity of 26.31.
+Download files: [Link](https://www.dropbox.com/s/lwr5kvbxri1gvv9/norwegian.zip?dl=0)
 
 - Finnish
 
 Trained on 68,775,370 tokens, and validated on 7,641,571 tokens. We achieve a perplexity of 27.66
 
-Training even higher performance models is possible, but require more (costly) training time. If you need a model with higher performance, feel free to contact us. Our servers crashed when training the Swedish model, but if you're in need of it, contact us and we can train it for you.
+Training even higher performance models is possible, but require more (costly) training time. If you need a model with higher performance, feel free to contact us.
+Download files: [Link](https://www.dropbox.com/s/3wl620c603ewvgo/finnish.zip?dl=0)
+
+Our servers crashed when training the Swedish model, but if you're in need of it, contact us and we can train it for you.
 
 ### Paper
 
