@@ -1,3 +1,5 @@
+We're in the process of releasing BERT models as well. Get the first one here: https://github.com/mollerhoj/danish_bert
+
 # Scandinavian ULMFiT
 
 Inductive transfer learning has greatly impacted computer vision, but existing approaches in NLP still require task-specific modifications and training from scratch.
